@@ -1,0 +1,37 @@
+Task Categories:
+
+HTML Structure:
+Create the basic HTML structure for the website.
+Deadline: Day1 14:00
+Priority: High
+Label: Markup
+
+CSS Styling:
+Develop the overall styling of the website using CSS.
+Deadline: Day1 22:00
+Priority: High
+Label: Styling
+
+Responsive Design:
+Design and implement the website's navigation bar.
+Deadline: Day 2 18:00
+Priority: Medium
+Label: Navigation
+
+Home Page Layout:
+Structure the content and layout of the home page.
+Deadline: Day2 18:00
+Priority: Medium
+Label: Layout
+
+Interactive Elements (JavaScript):
+Conduct thorough testing for cross-browser compatibility.
+Deadline: Day3 18:00
+Priority: High
+Label: Testing
+
+Optimization:
+Optimize website performance (e.g., image compression, code minification).
+Deadline: Day3 22:00
+Priority: Medium
+Label: Optimization
